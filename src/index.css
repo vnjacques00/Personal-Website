@@ -107,7 +107,7 @@ h2 {
 
 .logo {
   float: left;
-  margin-right: 20px;
+  margin-right: 0px;
 }
 
 .logo img {
@@ -116,6 +116,3 @@ h2 {
   max-width: 100px;
   transition: border-color 0.3s ease; 
 }
-
-.logo img:hover {
-  border-color: rgba(0, 0, 0, 0.5); 

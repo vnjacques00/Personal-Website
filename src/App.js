@@ -3,7 +3,7 @@ function App() {
     <div className="container">
       <header>
         <div className="logo">
-          <img src="" alt="Logo" />
+          <img src="jq_original.jpg" alt="Logo" />
         </div>
         <h1>Hi there, I'm Jacques van Niekerk</h1>
         <nav>
