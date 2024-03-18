@@ -3,13 +3,13 @@ function App() {
     <div className="container">
       <header>
         <h1>Welcome to My Personal Website</h1>
-        {/* <nav>
+        <nav>
           <ul>
             <li><a href="#about">About Me</a></li>
             <li><a href="#projects">Projects</a></li>
             <li><a href="#contact">Contact</a></li>
           </ul>
-        </nav> */}
+        </nav>
       </header>
       {/* <main>
         <section id="about">
