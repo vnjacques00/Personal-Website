@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/vnjacques00/personal-website.git/static/css/main.58654721.css",
+    "main.js": "/vnjacques00/personal-website.git/static/js/main.2b16db69.js",
+    "index.html": "/vnjacques00/personal-website.git/index.html",
+    "main.58654721.css.map": "/vnjacques00/personal-website.git/static/css/main.58654721.css.map",
+    "main.2b16db69.js.map": "/vnjacques00/personal-website.git/static/js/main.2b16db69.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.58654721.css",
+    "static/js/main.2b16db69.js"
+  ]
+}
