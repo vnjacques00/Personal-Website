@@ -63,3 +63,43 @@ h2 {
   border-radius: 50%;
   max-width: 250px;
 }
+
+.social-links {
+  text-align: center;
+  margin-top: 20px;
+}
+
+.social-links a {
+  display: inline-block;
+  margin: 0 10px;
+  padding: 10px;
+  text-decoration: none;
+  color: #333;
+  border: 1px solid #333;
+  border-radius: 5px;
+}
+
+.social-links a:hover {
+  background-color: #333;
+  color: #fff;
+}
+
+.project-links {
+  text-align: center;
+  margin-top: 20px;
+}
+
+.project-links a {
+  display: inline-block;
+  margin: 0 10px;
+  padding: 10px;
+  text-decoration: none;
+  color: #333;
+  border: 1px solid #333;
+  border-radius: 5px;
+}
+
+.project-links a:hover {
+  background-color: #333;
+  color: #fff;
+}
