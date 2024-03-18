@@ -1,6 +1,6 @@
 {
   "name": "personal-website",
-  "homepage": "https://github.com/vnjacques00/personal-website",
+  "homepage": "https://github.com/vnjacques00/personal-website.git",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
