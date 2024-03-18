@@ -2,6 +2,9 @@ function App() {
   return (
     <div className="container">
       <header>
+        <div className="logo">
+          <img src="" alt="Logo" />
+        </div>
         <h1>Hi there, I'm Jacques van Niekerk</h1>
         <nav>
           <ul>
