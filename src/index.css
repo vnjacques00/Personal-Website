@@ -62,7 +62,6 @@ h2 {
 .profile-picture img {
   border: 1px solid #000;
   border-radius: 50%;
-  max-width: 250px;
 }
 
 .social-links {
@@ -113,6 +112,5 @@ h2 {
 .logo img {
   border: 2px solid rgba(0, 0, 0, 0.2); 
   border-radius: 5px;
-  max-width: 100px;
   transition: border-color 0.3s ease; 
 }
