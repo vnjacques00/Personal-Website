@@ -3,7 +3,7 @@ function App() {
     <div className="container">
       <header>
         <div className="logo">
-          <img src="jq_original.webp" alt="Logo" />
+          <img src="jq_original.webp" width="150" height="150" alt="Logo" />
         </div>
         <h1>Hi there, I'm Jacques van Niekerk</h1>
         <nav>
@@ -24,7 +24,7 @@ function App() {
         <section id="about">
           <h2>About Me</h2>
           <div className="profile-picture">
-            <img src="profile-picture2.webp" alt="Jacques' Profile" />
+            <img src="profile-picture2.webp" width="375" height="375" alt="Jacques' Profile" />
           </div>
           <p>
             I'm a student at Langara College who is currently enrolled in the
