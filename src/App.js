@@ -3,7 +3,7 @@ function App() {
     <div className="container">
       <header>
         <div className="logo">
-          <img src="jq_original.webp" width="150" height="150" alt="Logo" />
+          <img src="jq_original.webp" width="100" height="100" alt="Logo" />
         </div>
         <h1>Hi there, I'm Jacques van Niekerk</h1>
         <nav>
@@ -24,7 +24,12 @@ function App() {
         <section id="about">
           <h2>About Me</h2>
           <div className="profile-picture">
-            <img src="profile-picture2.webp" width="375" height="375" alt="Jacques' Profile" />
+            <img
+              src="profile-picture2.webp"
+              width="250"
+              height="250"
+              alt="Jacques' Profile"
+            />
           </div>
           <p>
             I'm a student at Langara College who is currently enrolled in the
@@ -47,13 +52,27 @@ function App() {
         </section>
         <section id="projects">
           <h2>Projects</h2>
-          <p>Currently I am working on GoodGame, an application where users are able to 
-          search for board games online, with the assistance from an Artificial Intelligence 
-          chatbot. The second project I am working on is this profile website. The repositories 
-          listed below:</p>
+          <p>
+            Currently I am working on GoodGame, an application where users are
+            able to search for board games online, with the assistance from an
+            Artificial Intelligence chatbot. The second project I am working on
+            is this profile website. The repositories listed below:
+          </p>
           <div className="project-links">
-            <a href="https://github.com/vnjacques00/GoodGame" target="_blank" rel="noopener noreferrer">GoodGame</a>
-            <a href="https://github.com/vnjacques00/personal-website" target="_blank" rel="noopener noreferrer">Personal Website</a>
+            <a
+              href="https://github.com/vnjacques00/GoodGame"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              GoodGame
+            </a>
+            <a
+              href="https://github.com/vnjacques00/personal-website"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              Personal Website
+            </a>
           </div>
         </section>
         <section id="contact">
